@@ -2,6 +2,8 @@
 
 PredictWell is a full-stack machine learning application that predicts the risk of **Diabetes**, **Heart Disease**, and **Parkinson's Disease** using trained machine learning models. The project combines **React**, **Flask**, **Scikit-learn**, and **Apache PySpark** to deliver real-time disease risk prediction through an intuitive web interface.
 
+## Live Link : https://predictwell-ai.netlify.app/
+
 ## 🚀 Features
 
 * Multi-disease prediction:
