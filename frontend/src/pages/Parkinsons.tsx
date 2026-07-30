@@ -73,7 +73,7 @@ export default function Parkinsons() {
 
     const emptyField = Object.values(formData)
       .some(
-        value => value.toString().trim() === ""
+        (value) => String(value).trim() === ""
       );
 
 

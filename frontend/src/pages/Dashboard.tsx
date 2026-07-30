@@ -5,8 +5,6 @@ import {
 
 import {
   Activity,
-  HeartPulse,
-  Brain,
   ShieldCheck
 } from "lucide-react";
 
@@ -322,7 +320,7 @@ outerRadius={100}
 
 {
 riskData.map(
-(entry,index)=>(
+(_,index)=>(
 
 <Cell
 key={index}
