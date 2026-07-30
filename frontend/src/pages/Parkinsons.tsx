@@ -1,5 +1,5 @@
 import { useState } from "react";
-import api from "../services/api";
+import api from "../services/Api";
 import ResultCard from "../components/ResultCard";
 import { generateReport } from "../utils/generateReport";
 import { savePrediction } from "../utils/history";
